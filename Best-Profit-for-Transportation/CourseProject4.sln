@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseProject4", "CourseProject4\CourseProject4.csproj", "{34640BC5-9EBE-4508-8BFE-472EEA690FBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Map", "Map\Map.csproj", "{37E9FCBF-DF3A-44A2-9A14-BFCA0AB721EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneticAlgorithm", "GeneticAlgorithm\GeneticAlgorithm.csproj", "{B0E2DB09-C122-4FA4-9E36-D4216407CA2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34640BC5-9EBE-4508-8BFE-472EEA690FBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34640BC5-9EBE-4508-8BFE-472EEA690FBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34640BC5-9EBE-4508-8BFE-472EEA690FBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34640BC5-9EBE-4508-8BFE-472EEA690FBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37E9FCBF-DF3A-44A2-9A14-BFCA0AB721EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37E9FCBF-DF3A-44A2-9A14-BFCA0AB721EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37E9FCBF-DF3A-44A2-9A14-BFCA0AB721EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37E9FCBF-DF3A-44A2-9A14-BFCA0AB721EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0E2DB09-C122-4FA4-9E36-D4216407CA2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0E2DB09-C122-4FA4-9E36-D4216407CA2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0E2DB09-C122-4FA4-9E36-D4216407CA2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0E2DB09-C122-4FA4-9E36-D4216407CA2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
